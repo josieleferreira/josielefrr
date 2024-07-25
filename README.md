@@ -1,4 +1,4 @@
-## Olá, seja bem vindo 👋
+## Olá, Seja bem vindo(a) 👋
 
 Sou Josiele, uma estudante de Ciência da Dados e uma ávida entusiasta de leitura.
 
