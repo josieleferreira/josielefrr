@@ -5,7 +5,7 @@
 
   
 
-Sou uma estudante de Ciência de dados e uma ávida entusiasta de Análise de Dados. 
+Sou estudante de Ciência de dados e uma ávida entusiasta de Análise de Dados. 
 
 Ao longo da minha carreira, tenho liderado iniciativas que combinam estratégia e dados e sempreom um olhar analítico e orientado a resultados, busco constantemente oportunidades para aplicar minhas competências em dados e tecnologia para gerar valor e inovação. 
 
