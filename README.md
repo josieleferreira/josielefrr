@@ -13,13 +13,18 @@ Ao longo da minha carreira, tenho liderado iniciativas que combinam estratégia 
 
 Meu objetivo é contribuir como Analista de Dados, utilizando minhas experiências para potencializar decisões baseadas em dados e promover melhorias contínuas em qualquer organização.
 
-
+---
 ### Meus Projetos:
-[Portfólio](https://sites.google.com/view/josieleferreira/in%C3%ADcio)
+<div id="badges">
+  <a href="https://sites.google.com/view/josieleferreira/in%C3%ADcio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfólio no Google Sites"/>
+  </a>
+</div>
+
 
 ---
-
-<div id="badges" align="center">
+### Vamos nos conectar?
+<div id="badges">
   <a href="https://www.linkedin.com/in/josiele-ferreira-90686a1b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
